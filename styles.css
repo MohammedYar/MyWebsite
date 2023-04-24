@@ -1,0 +1,37 @@
+body {
+  font-style: italic;
+  text-align: center;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: antiquewhite;
+}
+
+body div {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: antiquewhite;
+}
+
+h2 {
+  background-color: wheat;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: saddlebrown;
+}
+
+h1 {
+  background-color: wheat;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: saddlebrown;
+}
+
+ul {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: left;
+  list-style-type: none;
+}
+
+span {
+  font-weight: bolder;
+  font-size: large;
+  color: red;
+}
